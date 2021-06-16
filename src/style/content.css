@@ -1,0 +1,9 @@
+#timer-banner {
+    /*all: revert;*/
+
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    text-align: center;
+    z-index: 1000000000;
+}
